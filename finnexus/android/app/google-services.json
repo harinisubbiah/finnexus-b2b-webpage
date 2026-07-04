@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734390645092",
+    "project_id": "finnexus-52cb0",
+    "storage_bucket": "finnexus-52cb0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734390645092:android:6be6b19f13a39135920a71",
+        "android_client_info": {
+          "package_name": "com.example.finnexus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuBgMOC2T-YlJU7lkCJoGcLLI1JkQ19o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
